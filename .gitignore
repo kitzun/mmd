@@ -1,0 +1,7 @@
+*.exe
+*.cache
+*.dll
+*.log
+*.pdb
+debug/
+.vs/
